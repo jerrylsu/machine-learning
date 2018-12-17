@@ -1,8 +1,8 @@
 # Machine Learning
 
 ## Course
-1. [Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)
-2. [Learning From Data](https://work.caltech.edu/lectures.html)
+- [Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)
+- [Learning From Data](https://work.caltech.edu/lectures.html)
 
 ## TextBook
 - 李航, 统计学习方法
