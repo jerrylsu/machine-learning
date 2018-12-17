@@ -1,4 +1,4 @@
-# machine-learning
+# Machine Learning
 
 ## Course
 1. [Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)
