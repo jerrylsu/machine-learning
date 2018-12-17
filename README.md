@@ -7,4 +7,4 @@
 ## TextBook
 - 李航, 统计学习方法
 - Yaser Abu-Mostafa, Learning From Data
-- Machine Learning in Action
+- Petter Harrington, Machine Learning in Action
